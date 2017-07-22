@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: b156ee4d2ae1a8f4f80ab130fc8a577c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AttachRing
+    100002: Base1
+    100004: Base2
+    100006: Base3
+    100008: Base4
+    100010: //RootNode
+    100012: Link1
+    100014: Link2
+    100016: Nozzle
+    100018: Piston1
+    100020: Piston2
+    100022: Piston3
+    100024: Piston4
+    100026: SideAttach
+    100028: SideStrut1
+    100030: SideStrut2
+    100032: TopConnector1
+    100034: TopConnector2
+    100036: TopConnector3
+    100038: TopConnector4
+    100040: Torus
+    100042: Valve1
+    100044: Valve2
+    100046: FRE1ColliderBottom
+    100048: FREColliderTop
+    100050: Cylinder
+    400000: AttachRing
+    400002: Base1
+    400004: Base2
+    400006: Base3
+    400008: Base4
+    400010: //RootNode
+    400012: Link1
+    400014: Link2
+    400016: Nozzle
+    400018: Piston1
+    400020: Piston2
+    400022: Piston3
+    400024: Piston4
+    400026: SideAttach
+    400028: SideStrut1
+    400030: SideStrut2
+    400032: TopConnector1
+    400034: TopConnector2
+    400036: TopConnector3
+    400038: TopConnector4
+    400040: Torus
+    400042: Valve1
+    400044: Valve2
+    400046: FRE1ColliderBottom
+    400048: FREColliderTop
+    400050: Cylinder
+    2300000: AttachRing
+    2300002: Base1
+    2300004: Base2
+    2300006: Base3
+    2300008: Base4
+    2300010: Link1
+    2300012: Link2
+    2300014: Nozzle
+    2300016: Piston1
+    2300018: Piston2
+    2300020: Piston3
+    2300022: Piston4
+    2300024: SideAttach
+    2300026: SideStrut1
+    2300028: SideStrut2
+    2300030: TopConnector1
+    2300032: TopConnector2
+    2300034: TopConnector3
+    2300036: TopConnector4
+    2300038: Torus
+    2300040: Valve1
+    2300042: Valve2
+    2300044: FRE1ColliderBottom
+    2300046: FREColliderTop
+    2300048: Cylinder
+    3300000: AttachRing
+    3300002: Base1
+    3300004: Base2
+    3300006: Base3
+    3300008: Base4
+    3300010: Link1
+    3300012: Link2
+    3300014: Nozzle
+    3300016: Piston1
+    3300018: Piston2
+    3300020: Piston3
+    3300022: Piston4
+    3300024: SideAttach
+    3300026: SideStrut1
+    3300028: SideStrut2
+    3300030: TopConnector1
+    3300032: TopConnector2
+    3300034: TopConnector3
+    3300036: TopConnector4
+    3300038: Torus
+    3300040: Valve1
+    3300042: Valve2
+    3300044: FRE1ColliderBottom
+    3300046: FREColliderTop
+    3300048: Cylinder
+    4300000: SideStrut2
+    4300002: SideStrut1
+    4300004: SideAttach
+    4300006: Piston4
+    4300008: Piston3
+    4300010: Base4
+    4300012: Base3
+    4300014: Valve2
+    4300016: Valve1
+    4300018: Torus
+    4300020: AttachRing
+    4300022: Nozzle
+    4300024: Link1
+    4300026: Link2
+    4300028: TopConnector1
+    4300030: TopConnector2
+    4300032: TopConnector3
+    4300034: TopConnector4
+    4300036: Base1
+    4300038: Base2
+    4300040: Piston1
+    4300042: Piston2
+    4300044: FREColliderTop
+    4300046: FRE1ColliderBottom
+    4300048: Cylinder
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

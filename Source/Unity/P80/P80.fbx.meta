@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 353072c41a9a7be46b26cbbbf4f6f8d2
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Attach1
+    100002: Attach2
+    100004: Base1
+    100006: Base2
+    100008: MetalRingTop
+    100010: Nozzle
+    100012: //RootNode
+    100014: Pipe
+    100016: Piston1
+    100018: Piston2
+    100020: Piston3
+    100022: Piston4
+    100024: Tank
+    400000: Attach1
+    400002: Attach2
+    400004: Base1
+    400006: Base2
+    400008: MetalRingTop
+    400010: Nozzle
+    400012: //RootNode
+    400014: Pipe
+    400016: Piston1
+    400018: Piston2
+    400020: Piston3
+    400022: Piston4
+    400024: Tank
+    2300000: Attach1
+    2300002: Attach2
+    2300004: Base1
+    2300006: Base2
+    2300008: MetalRingTop
+    2300010: Nozzle
+    2300012: Pipe
+    2300014: Piston1
+    2300016: Piston2
+    2300018: Piston3
+    2300020: Piston4
+    2300022: Tank
+    3300000: Attach1
+    3300002: Attach2
+    3300004: Base1
+    3300006: Base2
+    3300008: MetalRingTop
+    3300010: Nozzle
+    3300012: Pipe
+    3300014: Piston1
+    3300016: Piston2
+    3300018: Piston3
+    3300020: Piston4
+    3300022: Tank
+    4300000: Piston1
+    4300002: Piston3
+    4300004: Piston4
+    4300006: Piston2
+    4300008: Base2
+    4300010: Base1
+    4300012: Attach2
+    4300014: Nozzle
+    4300016: Tank
+    4300018: MetalRingTop
+    4300020: Pipe
+    4300022: Attach1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

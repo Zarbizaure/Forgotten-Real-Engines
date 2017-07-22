@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 53f8f7033259c2a40b6d2193d5b3afa8
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base1
+    100002: Base2
+    100004: Base3
+    100006: Base4
+    100008: Camera
+    100010: Lamp
+    100012: Nozzle
+    100014: Pipe2
+    100016: PipeConnector
+    100018: PipeTorus
+    100020: Piston1
+    100022: Piston2
+    100024: Piston3
+    100026: Piston4
+    100028: Plate
+    100030: //RootNode
+    100032: RD-843Collider
+    400000: Base1
+    400002: Base2
+    400004: Base3
+    400006: Base4
+    400008: Camera
+    400010: Lamp
+    400012: Nozzle
+    400014: Pipe2
+    400016: PipeConnector
+    400018: PipeTorus
+    400020: Piston1
+    400022: Piston2
+    400024: Piston3
+    400026: Piston4
+    400028: Plate
+    400030: //RootNode
+    400032: RD-843Collider
+    2300000: Base1
+    2300002: Base2
+    2300004: Base3
+    2300006: Base4
+    2300008: Nozzle
+    2300010: Pipe2
+    2300012: PipeConnector
+    2300014: PipeTorus
+    2300016: Piston1
+    2300018: Piston2
+    2300020: Piston3
+    2300022: Piston4
+    2300024: Plate
+    2300026: RD-843Collider
+    3300000: Base1
+    3300002: Base2
+    3300004: Base3
+    3300006: Base4
+    3300008: Nozzle
+    3300010: Pipe2
+    3300012: PipeConnector
+    3300014: PipeTorus
+    3300016: Piston1
+    3300018: Piston2
+    3300020: Piston3
+    3300022: Piston4
+    3300024: Plate
+    3300026: RD-843Collider
+    4300000: Base3
+    4300002: Piston4
+    4300004: Piston3
+    4300006: Base4
+    4300008: Base2
+    4300010: Piston1
+    4300012: Piston2
+    4300014: Base1
+    4300016: Pipe2
+    4300018: PipeConnector
+    4300020: PipeTorus
+    4300022: Plate
+    4300024: Nozzle
+    4300026: RD-843Collider
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
